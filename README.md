@@ -1,10 +1,25 @@
 # Algorithm-study
 알고리즘 &amp; 코딩 테스트 공부용 repository 입니다 😁
 
-|주차|1|2|3|4|
-|:---:|:---:|:---:|:---:|:---:|
-|1주차 (07-12 ~ 07-18)|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|
-|2주차 (07-19 ~ 07-25)|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|
-|3주차 (07-26 ~ 08-01)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039)|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|
-|4주차 (08-02 ~ 08-08)|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415)|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|
+알고리즘에 대한 기본 지식들을 강의를 통해 익히고, 공부한 것을 기록할 예정입니다.
+> **Rule**
+> 1. 강의를 듣고, 공부한 내용을 개인 블로그에 작성 후 링크를 리드미에 추가합니다. (보여지는 링크는 강의를 들은 날짜로 합니다. 예> 2021-01-01)
+> 2. 강의에서 나온 코드들을 *강의에 나온 해설과 다른 방법*으로 작성하고, 각자의 폴더에 해당 파일을 추가하여 PR 합니다. 
+>> * 브랜치 이름은 본인이름_강의이름_강의로 합니다. 예> indeeah_369_1
+>> * 커밋명은 브랜치 이름 + 메세지로 작성합니다. 예> indeeah_1 commit message
+>> * 스터디에 관련한 작업이 아닌, 단순 리드미 변경 등에 대한 작업은 본인이름_0으로 사용합니다. 예> indeeah_0
+>> * 강의 외의 문제 풀이에 대한 브랜치는 본인이름_문제출처_문제번호로 합니다. 예> indeeah_programmers_1
+> 3. 서로의 코드를 확인하고, 피드백을 줄 수 있도록 합니다.
+> 4. 위의 작업이 끝나면 main에 merge 합니다.
+> 5. 강의 내에 있는 문제가 아닌 추가적인 문제도 동일하게 현재 Repository에서 관리 할 예정입니다.
+>
+추후 rule은 업데이트 될 예정입니다.
 
+—
+
+| Sprint | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Sp 10 (12-13 ~ 12-26)|1강|2강|3강|4강|5강|6강|7강|8강|9강| |
+|indeeah| | | | | | | | | | |
+|juha| | | | | | | | | | |
+|Sp 11 (12-27 ~ 01-09)|10강|11강|12강|13강|14강|15강|16강|17강|18강| |
