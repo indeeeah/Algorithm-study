@@ -18,8 +18,11 @@
 —
 
 |        Sprint         |  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   | 10  |
-|:---------------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|
+|:——————————:|:——:|:——:|:——:|:——:|:——:|:——:|:——:|:——:|:——:|:—:|
 | Sp 10 (12-20 ~ 01-02) | ~ch4 | ~ch6 | ch7  | ch8  | ch9  | ch10 | ch11 | ch12 | ch13 |  -  |
 |        indeeah        |      |      |      |      |      |      |      |      |      |     |
 |         juha          |  ✔   |      |      |      |      |      |      |      |      |     |
+| PROGRAMMERS | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061) |   -   |   -   |   -   |  -   |  -  |
+|        indeeah        |      |      |      |      |      |      |      |      |      |     |
+|         juha          |     |      |      |      |      |      |      |      |      |     |
 | Sp 11 (01-03 ~ 01-16) | ch14 | ch15 | ch16 | ch17 | ch18 | ch19 | ch20 |  -   |  -   |  -  |
